@@ -32,16 +32,16 @@ chatting features will be implemented.
 
 ### Resources/Links :-
 
-# Kotlin
+#### Kotlin
 https://devdocs.io/kotlin/
 https://kotlinlang.org/docs/reference/
 https://play.kotlinlang.org/koans/overview
 
-# Firebase
+#### Firebase
 https://console.firebase.google.com/?pli=1
 https://firebase.google.com/docs?authuser=0
 
-# Android
+#### Android
 https://developer.android.com/courses/fundamentals-training/toc-v2
 
 ### Contributing Guidelines
