@@ -1,6 +1,6 @@
 # Chat-Safely
 
-## MOBILITY DEVELOPER TECH CAMP – Team 11 & Team 20
+## MOBILITY DEVELOPER TECH CAMP – Team 11
 
 
 ### Problem Statement :-
@@ -32,13 +32,17 @@ chatting features will be implemented.
 
 ### Resources/Links :-
 
+# Kotlin
 https://devdocs.io/kotlin/
+https://kotlinlang.org/docs/reference/
+https://play.kotlinlang.org/koans/overview
 
+# Firebase
 https://console.firebase.google.com/?pli=1
-
 https://firebase.google.com/docs?authuser=0
 
-https://kotlinlang.org/docs/reference/
+# Android
+https://developer.android.com/courses/fundamentals-training/toc-v2
 
 ### Contributing Guidelines
 
