@@ -34,11 +34,14 @@ chatting features will be implemented.
 
 #### Kotlin
 https://devdocs.io/kotlin/
+
 https://kotlinlang.org/docs/reference/
+
 https://play.kotlinlang.org/koans/overview
 
 #### Firebase
 https://console.firebase.google.com/?pli=1
+
 https://firebase.google.com/docs?authuser=0
 
 #### Android
