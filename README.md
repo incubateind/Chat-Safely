@@ -47,6 +47,11 @@ https://firebase.google.com/docs?authuser=0
 #### Android
 https://developer.android.com/courses/fundamentals-training/toc-v2
 
+#### HERE APIs
+https://developer.here.com/tutorials
+
+https://github.com/AbhinavSharma24/AndroidCB19/blob/master/MDTC%20API%20DOCS.pdf
+
 ### Contributing Guidelines
 
 1. Have a look at open issues. They contain the list of features we plan
